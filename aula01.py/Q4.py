@@ -1,3 +1,6 @@
+import os
+os.system('cls')
+
 A = 20
 B = 150
 

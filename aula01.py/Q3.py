@@ -1,3 +1,6 @@
+import os
+os.system('cls')
+
 temperatura = 28
 
 if temperatura<15:

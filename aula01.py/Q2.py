@@ -1,3 +1,6 @@
+import os
+os.system('cls')
+
 idade = int(input("Digite a sua idade: "))
 
 if idade<=12:

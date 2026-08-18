@@ -1,3 +1,6 @@
+import os
+os.system('cls')
+
 idade = 10
 
 if idade>=18:

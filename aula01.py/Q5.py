@@ -1,3 +1,6 @@
+import os
+os.system('cls')
+
 senha = "python123"
 
 senha_correta = "python123"
